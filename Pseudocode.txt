@@ -1,0 +1,14 @@
+Import Scanner class in Java
+
+Create class
+
+Request coupon amount from user
+Request grocery bill for specific weeks
+
+Double total grocery bill 
+Double weekly average
+
+Print Monthly Total Without Coupon
+Print Weekly Average Without Coupon
+Print Monthly Total With Coupon
+Print Weekly Average With Coupon
